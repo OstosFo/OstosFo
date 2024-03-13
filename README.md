@@ -1,5 +1,5 @@
 <h1 align='center'>
-  📡 Bienvenido!  Hola, Soy Sebastian Ostos
+  📡 Bienvenido!  Soy Sebastian Ostos
 </h1>
 Me especializo en **Desarrollo de Software** y **Analista de Seguridad**. Me gusta explorar nuevas herramientas, experimentar y practicar con ellas, esta es una forma de compartir mi conocimiento.
 
